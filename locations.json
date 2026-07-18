@@ -10,6 +10,17 @@
       "lon": 4.4934806191799535,
       "address_confirmed": false,
       "coords_verified": false
+    },
+    {
+      "id": "hortus-botanicus",
+      "cat": "park",
+      "name": "Hortus Botanicus",
+      "addr": "Rapenburg 73",
+      "desc": "Veel groen en schaduw. Met Museumkaart gratis toegankelijk",
+      "lat": 52.15679103282225,
+      "lon": 4.48380605858635,
+      "address_confirmed": false,
+      "coords_verified": false
     }
   ],
   "overrides": {
