@@ -1,0 +1,13 @@
+{
+  "additions": [],
+  "overrides": {
+    "van-der-werfpark": {
+      "cat": "park",
+      "name": "Van der Werfpark",
+      "addr": "Kruitschip, Leiden",
+      "desc": "Park uit 1886 langs het Steenschuur, tussen Garenmarkt en Doezastraat. Adres gecorrigeerd (was 'Steenschuur')",
+      "lat": 52.155558281128265,
+      "lon": 4.490612150725225
+    }
+  }
+}
