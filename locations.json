@@ -1,5 +1,17 @@
 {
-  "additions": [],
+  "additions": [
+    {
+      "id": "bibliotheek-nieuwstraat",
+      "cat": "binnen",
+      "name": "Bibliotheek Nieuwstraat",
+      "addr": "Nieuwstraat 4",
+      "desc": "Gratis toegang. Verschillende werkplekken",
+      "lat": 52.15841254952076,
+      "lon": 4.4934806191799535,
+      "address_confirmed": false,
+      "coords_verified": false
+    }
+  ],
   "overrides": {
     "van-der-werfpark": {
       "cat": "park",
