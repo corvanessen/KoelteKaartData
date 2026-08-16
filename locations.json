@@ -525,6 +525,18 @@
       "municipality": "tilburg",
       "address_confirmed": false,
       "coords_verified": false
+    },
+    {
+      "id": "sportcomplex-drieburcht",
+      "cat": "zwembad",
+      "name": "Sportcomplex Drieburcht",
+      "addr": "Wagnerplein 1, 5011LP Tilburg",
+      "desc": "Bron: OpenStreetMap (osm.org/node/2850806645), aangevuld via sportintilburg.nl/tilburg.com — stond niet in de OSM-import omdat het daar als sports_centre (niet swimming_pool) getagd is. Een van de 3 gemeentelijke zwembaden van Tilburg. Ongeverifieerd — controleer vrije toegankelijkheid, zitplekken en openingstijden tijdens hitte voordat je dit goedkeurt.",
+      "lat": 51.5835138,
+      "lon": 5.0836723,
+      "municipality": "tilburg",
+      "address_confirmed": false,
+      "coords_verified": false
     }
   ],
   "overrides": {
